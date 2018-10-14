@@ -1,0 +1,24 @@
+{
+  "name": "fhink_backend_email",
+  "version": "1.0.0",
+  "description": "Back-end do desafio da Fhink, responsável por enviar um email ao destinatário",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michele-Camargo/fhink_backend_email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michele-Camargo/fhink_backend_email/issues"
+  },
+  "homepage": "https://github.com/Michele-Camargo/fhink_backend_email#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemailer": "^4.6.8"
+  }
+}
