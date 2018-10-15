@@ -15,8 +15,8 @@ app.post('/sendEmail', (req, resp) => {
     const transporter = nodemailer.createTransport({
         service: 'Hotmail',
         auth: {
-            user: 'michele.desafio.fhink@hotmail.com',
-            pass: 'fhinkdesafio123'
+            user: 'michele.desafio.fhink@gmail.com',
+            pass: 'desafiofhinck123'
         }
     });
 
